@@ -9,7 +9,7 @@ Unlike traditional review analysis relying on textual reviews, this project focu
 
 # Dataset Description:
 The dataset used is from Kaggle, titled "**Zomato Bengaluru Dataset**."  
-It contains information about over 50,000 restaurants located in Bengaluru, India, including attributes like:
+It contains information about over **50,000** restaurants located in Bengaluru, India, including attributes like:
 - Restaurant name
 - Location
 - Cost for two
